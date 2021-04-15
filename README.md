@@ -1,1 +1,1 @@
-# ArtivicialNeuralNetwork
+# ArtificialNeuralNetwork source code
