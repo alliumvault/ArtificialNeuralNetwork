@@ -7,15 +7,15 @@ The app is avaiable in english, german and norwegian.
 
 Versions:
 
-0.1.		Added calculator
+    0.1.		Added calculator
 
-0.2.		Added MyNet
+    0.2.		Added MyNet
 
-0.3.		Added subject recognition
+    0.3.		Added subject recognition
 
-  0.3.1.		Added Fire subject
+      0.3.1.		Added Fire subject
 
-  0.3.2.		Network uses "real" test data to calculate percentage
+      0.3.2.		Network uses "real" test data to calculate percentage
 
-  0.3.3.		Corrected image preview rotation
+      0.3.3.		Corrected image preview rotation
 
