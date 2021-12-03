@@ -21,5 +21,5 @@ Versions:
 
       0.3.4.           Corrected image preview rotation
 
-      0.3.4.           Added "Sunset" subject
+      0.3.5.           Added "Sunset" subject
 
