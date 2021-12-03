@@ -13,11 +13,11 @@ Versions:
 
     0.3.		Added subject recognition
     
-      0.3.1.           Training data set is now included in the app
+      0.3.1.            Training data set is now included in the app
 
-      0.3.2.           Added Fire subject
+      0.3.2.            Added Fire subject
 
-      0.3.3.           Network uses "real" test data to calculate accuracy
+      0.3.3.            Network uses "real" test data to calculate accuracy
 
-      0.3.4.           Corrected image preview rotation
+      0.3.4.            Corrected image preview rotation
 
