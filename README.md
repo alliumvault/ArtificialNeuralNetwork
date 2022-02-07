@@ -40,3 +40,5 @@ Versions:
         1.0.1       Changed Link under "Main"
         
         1.0.2.      Changed Icon for "Subject Recognition"
+        
+        1.0.3.      Updated "Subject Recognition" Activity
