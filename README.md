@@ -35,7 +35,7 @@ Versions:
     
     0.9.        Bugfixes
     
-    1.0.        Updated Weights for Calculator
+    1.0.        Updated weights for Calculator
     
         1.0.1       Changed Link under "Main"
         
