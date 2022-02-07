@@ -42,3 +42,5 @@ Versions:
         1.0.2.      Changed Icon for "Subject Recognition"
         
         1.0.3.      Updated "Subject Recognition" Activity
+        
+        1.0.4.      Updated "Subject Recognition" Activity
