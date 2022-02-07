@@ -22,4 +22,21 @@ Versions:
       0.3.4.           Corrected image preview rotation
 
       0.3.5.           Added "Sunset" subject
-
+    
+    0.4.        Bugfixes
+    
+    0.5.        Bugfixes
+    
+    0.6.        Bugfixes
+    
+    0.7.        Corrected Description under "Main"
+    
+    0.8.        Bugfixes
+    
+    0.9.        Bugfixes
+    
+    1.0.        Updated Weights for Calculator
+    
+        1.0.1       Changed Link under "Main"
+        
+        1.0.2.      Changed Icon for "Subject Recognition"
