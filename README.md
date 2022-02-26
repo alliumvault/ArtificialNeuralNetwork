@@ -1,7 +1,7 @@
 # ArtificialNeuralNetwork ("MyNet")
 
-This app uses artificial neural networks to recognize numbers, arithmetic symbols (currently supported: +, -, *, /) and motives on a color image (currently supported: landscape, window from the inside, forest, flower, document, fire, sunset).
-The subject/motive recognition only works with images and weights in the right folders. Weights for the recognition of numbers and arithmetic symbols are included in the assets of the app.
+This app uses artificial neural networks to recognize numbers, arithmetic symbols (currently supported: +, -, *, /) and motives on a color image (currently supported: landscape, window, forest, winter, document, fire, sunset).
+Weights are included in the assets of the app.
 
 The app is avaiable in english, german and norwegian.
 
